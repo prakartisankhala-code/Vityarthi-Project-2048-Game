@@ -1,10 +1,10 @@
-# 🎮 2048 Game – Java
+# 2048 Game – Java
 
-## 📌 Project Overview
+## Project Overview:
 
-This project is a **2048 puzzle game developed using Java**. The objective is to combine tiles with the same number to create a tile with the value **2048**. The game provides an interactive way to practice Java programming concepts while implementing an engaging puzzle game.
+This project is a 2048 puzzle game developed using Java. The objective is to combine tiles with the same number to create a tile with the value 2048. The game provides an interactive way to practice Java programming concepts while implementing an engaging puzzle game.
 
-## 🎯 Objective
+## Objective:
 
 The main objective of the project is to develop a functional 2048 game while applying core Java concepts such as:
 
@@ -17,20 +17,20 @@ The main objective of the project is to develop a functional 2048 game while app
 - User input
 - Game logic
 
-## 🕹️ How to Play
+## How to Play:
 
 1. Start the game on the Java application.
-2. Use the **Arrow Keys** to move the tiles:
+2. Use the Arrow Keys to move the tiles:
    - ⬆️ Up
    - ⬇️ Down
    - ⬅️ Left
    - ➡️ Right
 3. Tiles with the same number merge when they collide.
 4. Each successful merge increases the score.
-5. Continue combining tiles to create the **2048 tile**.
+5. Continue combining tiles to create the 2048 tile.
 6. The game ends when there are no valid moves remaining.
 
-## ✨ Features
+## Features:
 
 - 4 × 4 game board
 - Random tile generation
@@ -41,15 +41,15 @@ The main objective of the project is to develop a functional 2048 game while app
 - Keyboard-based controls
 - Simple and interactive user interface
 
-## 🛠️ Technologies Used
+## Technologies Used:
+Technology	Purpose
+Java	Game logic and programming
+HTML	Structure of the game interface
+CSS	Styling, layout, and visual design
 
-- **Programming Language:** Java
-- **Concepts:** Arrays, Loops, Methods, OOP, Conditional Statements, Event Handling
-- **IDE:** IntelliJ IDEA / Eclipse / VS Code / NetBeans
+## Game Logic
 
-## ⚙️ Game Logic
-
-The game maintains the tiles using a **2D array**. Whenever the player presses an arrow key, the program:
+The game maintains the tiles using a 2D array. Whenever the player presses an arrow key, the program:
 
 1. Reads the player's input.
 2. Moves the tiles in the selected direction.
@@ -58,41 +58,7 @@ The game maintains the tiles using a **2D array**. Whenever the player presses a
 5. Generates a new tile.
 6. Checks for a win or game-over condition.
 
-## 🚀 How to Run
-
-### Prerequisites
-
-Make sure **Java JDK** is installed on your system.
-
-Check your Java installation using:
-
-```bash
-java -version
-```
-
-### Steps
-
-1. Clone or download this repository.
-2. Open the project in your preferred Java IDE.
-3. Compile the Java source files.
-4. Run the main Java class.
-5. Start playing the game using the arrow keys.
-
-## 📂 Project Structure
-
-```text
-2048-Game/
-│
-├── src/
-│   └── Main.java
-│
-├── README.md
-└── .gitignore
-```
-
-> The project structure may vary depending on the implementation and IDE used.
-
-## 📚 Learning Outcomes
+## Learning Outcomes:
 
 Through this project, we learned how to:
 
@@ -104,7 +70,7 @@ Through this project, we learned how to:
 - Manage conditions for winning and losing.
 - Build an interactive Java application.
 
-## 🔮 Future Enhancements
+## Future Enhancements:
 
 Possible future improvements include:
 
@@ -115,13 +81,3 @@ Possible future improvements include:
 - Add a leaderboard.
 - Add different themes and visual styles.
 - Add touch-screen controls.
-
-## 👨‍💻 Project
-
-**Project:** 2048 Game  
-**Language:** Java  
-**Type:** Puzzle Game / Java Project
-
----
-
-⭐ **If you enjoyed the project, consider giving the repository a star!**
